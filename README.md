@@ -1,2 +1,2 @@
-- 👋 Bonjour, je suis Moncef STITI (@MoncefST). Je suis actuellement (2024-2025) étudiant en seconde année de BUT Informatique à l'IUT de Fontainebleau.
-- 📫 Vous pouvez me contacter par e-mail : moncef.stiti@etu.u-pec.fr
+- 👋 Bonjour, je suis Moncef STITI (@MoncefST).
+- 📫 Vous pouvez me contacter par e-mail : contact@moncefstiti.fr
